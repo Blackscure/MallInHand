@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "918033278696",
+    "firebase_url": "https://mkononomall.firebaseio.com",
+    "project_id": "mkononomall",
+    "storage_bucket": "mkononomall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918033278696:android:b41cacc27a12723caccb5d",
+        "android_client_info": {
+          "package_name": "com.blackscure.mkononimall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918033278696-cco92fccqob7mbc2iafb9mdumsqo0ii7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackscure.mkononimall",
+            "certificate_hash": "21a024427a89ec2b78383d48e48b56442da99d27"
+          }
+        },
+        {
+          "client_id": "918033278696-qbde986rbap71i5e313u192v01odpt7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqQP_NzqGvXmaEm9gCoQQri9t5dCBR_Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918033278696-qbde986rbap71i5e313u192v01odpt7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
